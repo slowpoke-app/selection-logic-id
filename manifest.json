@@ -1,9 +1,9 @@
 {
-    "name": "Selection Search",
+    "name": "Selection Logic ID",
     "version": "0.8.4",
     "manifest_version" : 2,
 
-    "description": "Search for the selected text in search engines",
+    "description": "ID logifalls",
 
     "minimum_chrome_version": "35",
 
